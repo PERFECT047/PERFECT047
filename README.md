@@ -4,10 +4,10 @@
 
 ---
 
-🧠 Currently Working On  
-- Building robust, reusable UI components at Pixel Tech using React, TypeScript, and Redux    
+🧠 Currently Working On     
 - Writing scalable backend services and enhancing application resilience through testing and optimization
-
+- Building robust, reusable UI components using React, TypeScript, and Redux
+  
 ---
 
 🛠️ Tech Stack  
