@@ -13,7 +13,8 @@
 🛠️ Tech Stack  
 ⚛️ React.js  🟦 TypeScript  🟨 JavaScript  🐍 Python  💻 C/C++  🧰 Redux Toolkit  🎨 Tailwind CSS  
 🌐 Node.js  🚂 Express.js  🔌 WebSockets  🍃 MongoDB  🐘 PostgreSQL  📦 Prisma ORM   🧬 Kafka 
-🧠 Git / GitHub  🧵 Web Workers 🧪 Jest  🧪 React Testing Library  
+🧠 Git / GitHub  🧵 Web Workers 
+🧪 Jest  🧪 React Testing Library  
 
 
 ---
