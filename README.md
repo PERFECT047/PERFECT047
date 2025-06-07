@@ -4,15 +4,15 @@
 
 ---
 
-🧠 Currently Working On     
+**🧠 Currently Working On**
 - Writing scalable backend services and enhancing application resilience through testing and optimization
 - Building robust, reusable UI components using React, TypeScript, and Redux
   
 ---
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-🎓 Proficient
+*🎓 Proficient*
 
 <p align="center"> <!-- Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -31,9 +31,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-📝 Learning
+*📝 Learning*
 <p align="center"> <!-- Languages -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=microgen&logoColor=white" />
 <img src="https://img.shields.io/badge/Multithreading-4B0082?style=for-the-badge&logoColor=white" />
