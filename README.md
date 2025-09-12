@@ -1,12 +1,13 @@
 # Hi, I'm Siddhartha Das 👋  
-💻 Full Stack Developer | IIT BHU Grad  
-🚀 Passionate about building performant full-stack applications, real-time systems, and developer-centric platforms.
+💻 Backend Developer | IIT BHU Grad  
+🚀 Passionate about building performant, low-latency applications, real-time systems, and developer-centric platforms.
 
 ---
 
 **🧠 Currently Working On**
 - Writing scalable backend services and enhancing application resilience through testing and optimization
-- Building robust, reusable UI components using React, TypeScript, and Redux
+- Building robust architecture for Socket
+- Building blockchain using Golang from scratch (For better understanding of concepts)
   
 ---
 
